@@ -1,5 +1,24 @@
 # AI HR Recruitment Assistant
 
+<div align="center">
+
+## Agentic AI HR Recruitment Assistant
+
+### Project Documentation
+
+**Submitted by**
+
+## Rajyapriya M
+
+<br>
+
+**Project Repository**  
+IBM Agentic AI HR Recruitment Assistant
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
 ## 1. Project Overview
 
 ### Project Title
