@@ -9,3 +9,4 @@ data/chroma/
 data/uploads/*
 !data/uploads/.gitkeep
 .streamlit/secrets.toml
+PROJECT_DOCUMENT.html
